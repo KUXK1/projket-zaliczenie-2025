@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projekt\\Projekt zaliczeniowy c\u002B\u002B .net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2FBD99-E3E7-4082-BE76-A11182CA55EF}|Projekt zaliczeniowy c\u002B\u002B .net\\Projekt zaliczeniowy c\u002B\u002B .net.vcxproj|D:\\Projekt\\Projekt zaliczeniowy c\u002B\u002B .net\\Projekt zaliczeniowy c\u002B\u002B .net\\Elements.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1C2FBD99-E3E7-4082-BE76-A11182CA55EF}|Projekt zaliczeniowy c\u002B\u002B .net\\Projekt zaliczeniowy c\u002B\u002B .net.vcxproj|solutionrelative:Projekt zaliczeniowy c\u002B\u002B .net\\Elements.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2FBD99-E3E7-4082-BE76-A11182CA55EF}|Projekt zaliczeniowy c\u002B\u002B .net\\Projekt zaliczeniowy c\u002B\u002B .net.vcxproj|D:\\Projekt\\Projekt zaliczeniowy c\u002B\u002B .net\\Projekt zaliczeniowy c\u002B\u002B .net\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1C2FBD99-E3E7-4082-BE76-A11182CA55EF}|Projekt zaliczeniowy c\u002B\u002B .net\\Projekt zaliczeniowy c\u002B\u002B .net.vcxproj|solutionrelative:Projekt zaliczeniowy c\u002B\u002B .net\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2FBD99-E3E7-4082-BE76-A11182CA55EF}|Projekt zaliczeniowy c\u002B\u002B .net\\Projekt zaliczeniowy c\u002B\u002B .net.vcxproj|D:\\Projekt\\Projekt zaliczeniowy c\u002B\u002B .net\\Projekt zaliczeniowy c\u002B\u002B .net\\Elements.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1C2FBD99-E3E7-4082-BE76-A11182CA55EF}|Projekt zaliczeniowy c\u002B\u002B .net\\Projekt zaliczeniowy c\u002B\u002B .net.vcxproj|solutionrelative:Projekt zaliczeniowy c\u002B\u002B .net\\Elements.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2FBD99-E3E7-4082-BE76-A11182CA55EF}|Projekt zaliczeniowy c\u002B\u002B .net\\Projekt zaliczeniowy c\u002B\u002B .net.vcxproj|D:\\Projekt\\Projekt zaliczeniowy c\u002B\u002B .net\\Projekt zaliczeniowy c\u002B\u002B .net\\SQL_Functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1C2FBD99-E3E7-4082-BE76-A11182CA55EF}|Projekt zaliczeniowy c\u002B\u002B .net\\Projekt zaliczeniowy c\u002B\u002B .net.vcxproj|solutionrelative:Projekt zaliczeniowy c\u002B\u002B .net\\SQL_Functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2FBD99-E3E7-4082-BE76-A11182CA55EF}|Projekt zaliczeniowy c\u002B\u002B .net\\Projekt zaliczeniowy c\u002B\u002B .net.vcxproj|D:\\Projekt\\Projekt zaliczeniowy c\u002B\u002B .net\\Projekt zaliczeniowy c\u002B\u002B .net\\SQL_Functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1C2FBD99-E3E7-4082-BE76-A11182CA55EF}|Projekt zaliczeniowy c\u002B\u002B .net\\Projekt zaliczeniowy c\u002B\u002B .net.vcxproj|solutionrelative:Projekt zaliczeniowy c\u002B\u002B .net\\SQL_Functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2FBD99-E3E7-4082-BE76-A11182CA55EF}|Projekt zaliczeniowy c\u002B\u002B .net\\Projekt zaliczeniowy c\u002B\u002B .net.vcxproj|D:\\Projekt\\Projekt zaliczeniowy c\u002B\u002B .net\\Projekt zaliczeniowy c\u002B\u002B .net\\EditElementForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1C2FBD99-E3E7-4082-BE76-A11182CA55EF}|Projekt zaliczeniowy c\u002B\u002B .net\\Projekt zaliczeniowy c\u002B\u002B .net.vcxproj|solutionrelative:Projekt zaliczeniowy c\u002B\u002B .net\\EditElementForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditElementForm.h",
+              "DocumentMoniker": "D:\\Projekt\\Projekt zaliczeniowy c\u002B\u002B .net\\Projekt zaliczeniowy c\u002B\u002B .net\\EditElementForm.h",
+              "RelativeDocumentMoniker": "Projekt zaliczeniowy c\u002B\u002B .net\\EditElementForm.h",
+              "ToolTip": "D:\\Projekt\\Projekt zaliczeniowy c\u002B\u002B .net\\Projekt zaliczeniowy c\u002B\u002B .net\\EditElementForm.h",
+              "RelativeToolTip": "Projekt zaliczeniowy c\u002B\u002B .net\\EditElementForm.h",
+              "ViewState": "AgIAAAcBAAAAAAAAAAAAABcBAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-18T15:02:48.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Elements.h",
+              "DocumentMoniker": "D:\\Projekt\\Projekt zaliczeniowy c\u002B\u002B .net\\Projekt zaliczeniowy c\u002B\u002B .net\\Elements.h",
+              "RelativeDocumentMoniker": "Projekt zaliczeniowy c\u002B\u002B .net\\Elements.h",
+              "ToolTip": "D:\\Projekt\\Projekt zaliczeniowy c\u002B\u002B .net\\Projekt zaliczeniowy c\u002B\u002B .net\\Elements.h",
+              "RelativeToolTip": "Projekt zaliczeniowy c\u002B\u002B .net\\Elements.h",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwDAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-18T15:58:42.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SQL_Functions.h",
+              "DocumentMoniker": "D:\\Projekt\\Projekt zaliczeniowy c\u002B\u002B .net\\Projekt zaliczeniowy c\u002B\u002B .net\\SQL_Functions.h",
+              "RelativeDocumentMoniker": "Projekt zaliczeniowy c\u002B\u002B .net\\SQL_Functions.h",
+              "ToolTip": "D:\\Projekt\\Projekt zaliczeniowy c\u002B\u002B .net\\Projekt zaliczeniowy c\u002B\u002B .net\\SQL_Functions.h",
+              "RelativeToolTip": "Projekt zaliczeniowy c\u002B\u002B .net\\SQL_Functions.h",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwBQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-18T12:56:24.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SQL_Functions.cpp",
+              "DocumentMoniker": "D:\\Projekt\\Projekt zaliczeniowy c\u002B\u002B .net\\Projekt zaliczeniowy c\u002B\u002B .net\\SQL_Functions.cpp",
+              "RelativeDocumentMoniker": "Projekt zaliczeniowy c\u002B\u002B .net\\SQL_Functions.cpp",
+              "ToolTip": "D:\\Projekt\\Projekt zaliczeniowy c\u002B\u002B .net\\Projekt zaliczeniowy c\u002B\u002B .net\\SQL_Functions.cpp",
+              "RelativeToolTip": "Projekt zaliczeniowy c\u002B\u002B .net\\SQL_Functions.cpp",
+              "ViewState": "AgIAAFsBAAAAAAAAAAAiwHMBAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-18T12:26:01.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyForm.h",
+              "DocumentMoniker": "D:\\Projekt\\Projekt zaliczeniowy c\u002B\u002B .net\\Projekt zaliczeniowy c\u002B\u002B .net\\MyForm.h",
+              "RelativeDocumentMoniker": "Projekt zaliczeniowy c\u002B\u002B .net\\MyForm.h",
+              "ToolTip": "D:\\Projekt\\Projekt zaliczeniowy c\u002B\u002B .net\\Projekt zaliczeniowy c\u002B\u002B .net\\MyForm.h",
+              "RelativeToolTip": "Projekt zaliczeniowy c\u002B\u002B .net\\MyForm.h",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAAANwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-18T12:04:40.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Elements.cpp",
+              "DocumentMoniker": "D:\\Projekt\\Projekt zaliczeniowy c\u002B\u002B .net\\Projekt zaliczeniowy c\u002B\u002B .net\\Elements.cpp",
+              "RelativeDocumentMoniker": "Projekt zaliczeniowy c\u002B\u002B .net\\Elements.cpp",
+              "ToolTip": "D:\\Projekt\\Projekt zaliczeniowy c\u002B\u002B .net\\Projekt zaliczeniowy c\u002B\u002B .net\\Elements.cpp",
+              "RelativeToolTip": "Projekt zaliczeniowy c\u002B\u002B .net\\Elements.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-18T15:58:37.723Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

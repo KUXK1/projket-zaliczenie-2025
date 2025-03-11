@@ -1,0 +1,6 @@
+﻿  SQL_Functions.cpp
+D:\Projekt\Projekt zaliczeniowy c++ .net\Projekt zaliczeniowy c++ .net\SQL_Functions.cpp(655,54): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Projekt\Projekt zaliczeniowy c++ .net\Projekt zaliczeniowy c++ .net\SQL_Functions.cpp(657,84): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Projekt\Projekt zaliczeniowy c++ .net\Projekt zaliczeniowy c++ .net\SQL_Functions.cpp(657,73): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  AddElementForm.obj : napotkano moduł MSIL; konsolidowanie przyrostowe jest wyłączone dla modułów MSIL; zostanie wykonana pełna konsolidacja
+  Projekt zaliczeniowy c++ .net.vcxproj -> D:\Projekt\Projekt zaliczeniowy c++ .net\x64\Debug\Projekt zaliczeniowy c++ .net.exe

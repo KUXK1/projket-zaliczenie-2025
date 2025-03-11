@@ -1,0 +1,8 @@
+D:\Projekt\Projekt zaliczeniowy c++ .net\Projekt zaliczeniowy c++ .net\x64\Debug\Projekt zaliczeniowy c++ .net.vcxproj.AssemblyReference.cache
+D:\Projekt\Projekt zaliczeniowy c++ .net\Projekt zaliczeniowy c++ .net\x64\Debug\Projektzaliczeniowycnet.MyForm.resources
+D:\Projekt\Projekt zaliczeniowy c++ .net\Projekt zaliczeniowy c++ .net\x64\Debug\Projekt zaliczeniowy c++ .net.vcxproj.GenerateResource.cache
+D:\Projekt\Projekt zaliczeniowy c++ .net\Projekt zaliczeniowy c++ .net\x64\Debug\Projekt .F831562A.Up2Date
+D:\Projekt\Projekt zaliczeniowy c++ .net\Projekt zaliczeniowy c++ .net\x64\Debug\Projektzaliczeniowycnet.AddElementForm.resources
+D:\Projekt\Projekt zaliczeniowy c++ .net\Projekt zaliczeniowy c++ .net\x64\Debug\Projektzaliczeniowycnet.DeleteElementForm.resources
+D:\Projekt\Projekt zaliczeniowy c++ .net\Projekt zaliczeniowy c++ .net\x64\Debug\Projektzaliczeniowycnet.EditElementForm.resources
+D:\Projekt\Projekt zaliczeniowy c++ .net\Projekt zaliczeniowy c++ .net\x64\Debug\Projektzaliczeniowycnet.OrdersMenu.resources
