@@ -1,31 +1,38 @@
-# STM746 - PWM
+# System Magazynowania - Projekt Informatyczny
 
-## Konfiguracja PWM
-PWM zostało ustawione pod timer 3, który znajduje się pod zegarem magistrali APB1.
+## Opis projektu
 
-### Szczegóły konfiguracji:
-- **Deklaracja:** W pliku `functions.h`
-- **Implementacja:** W pliku `functions.c`
-- **Zegar APB1:** 72 MHz
+Projekt "System Magazynowania" jest aplikacją, która integruje różne technologie: C++, .NET, SQL i PHP. Celem systemu jest efektywne zarządzanie zapasami magazynowymi elektroniki w firmie oraz umożliwienie użytkownikom przeglądania produktów i składania zamówień za pośrednictwem strony internetowej. 
 
-### Parametry timera:
-- **Prescaler:** 71  
-  Prescaler dzieli zegar APB1. Wartość 71 oznacza podział zegara na 72 (ponieważ liczymy od 0).
+Projekt ten jest modernizowaną wersją projektu z praktyk zawodowych z 2023 roku, który został wzbogacony o nowe rozwiązania technologiczne i funkcjonalności, takie jak wykorzystanie nowych narzędzi oraz lepszą wydajność operacji.
 
-- **Counter:** 999  
-  Counter liczy od 0 do 999, co daje łącznie 1000 cykli na okres.
+## Technologie
 
-- **Auto-reload enable:**  
-  Zapobiega wydłużeniu lub skróceniu okresu w trakcie zmiany parametrów podczas trwania bieżącego okresu, poprzez zresetowaniu licznika.
+- **C++**: Wykorzystane do opracowania logiki zarządzania zapasami, która odpowiada za kontrolę stanu magazynowego, dodawanie produktów, aktualizowanie ilości oraz obsługę transakcji magazynowych.
+- **.NET**: Zastosowane do budowy interfejsu użytkownika (UI) oraz backendu aplikacji magazynowej. Użyte technologie to ASP.NET MVC oraz Entity Framework.
+- **SQL (MariaDB)**: Baza danych, w której przechowywane są dane o produktach, stanach magazynowych, transakcjach oraz użytkownikach systemu. 
+- **PHP**: Użyte do stworzenia strony internetowej sklepu, na której użytkownicy mogą przeglądać dostępne produkty, składać zamówienia oraz dokonywać płatności.
+- ** HTML, CSS**: Stosowane do front-endu strony sklepu, umożliwiając dynamiczną obsługę interfejsu i interaktywność.
 
-### Obliczenia:
-Zegar wyjściowy PWM można obliczyć ze wzoru:
-Częstotliwość PWM =Zegar APB1 / ((Prescaler + 1) X (Counter + 1))
+## Funkcjonalności
 
-Podstawiając:
-Częstotliwość PWM =72Mhz / ((71 + 1) X (999 + 1))=1KHz
+### System magazynowy
 
+- **Zarządzanie zapasami**: Możliwość dodawania, usuwania oraz edytowania produktów w magazynie.
+- **Kontrola stanów magazynowych**: Monitorowanie dostępności produktów w czasie rzeczywistym.
+- **Generowanie potwierdzeń zamówień**: Możliwość wygenerowania maila który sam się wyśle po zaakceptowaniu zamówienia przez pracownika 
 
-## Ważne informacje
-Timer 3 został skonfigurowany tak, aby generować sygnał PWM o częstotliwości 1 kHz. Implementacja szczegółów znajduje się w odpowiednich plikach kodu, co pozwala na łatwą modyfikację parametrów w razie potrzeby.
+### Sklep internetowy
 
+- **Przeglądanie produktów**: Użytkownicy mogą przeglądać dostępne produkty z możliwością filtrowania po kategoriach.
+- **Koszyk i zakupy**: Umożliwienie dodawania produktów do koszyka oraz składania zamówień.
+
+## Użycie
+
+Po zainstalowaniu systemu, użytkownicy mogą:
+- Korzystać z interfejsu sklepu internetowego do składania zamówień i przeglądania dostępnych produktów.
+- Korzystać z panelu administratora do zarządzania zapasami magazynowymi, przeglądania raportów i edytowania produktów.
+
+## Kontakt
+
+Jeśli masz pytania, skontaktuj się ze mną przez GitHub lub wyślij wiadomość e-mail na adres: podhajnymaciej@wp.pl
